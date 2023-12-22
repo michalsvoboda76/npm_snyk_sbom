@@ -53,4 +53,4 @@ The same is valid in the case the `package.json` file does not contain version a
 }
 ```
 
-I consider this of the "snyk sbom" tool behavior as a bug.
+I consider this the "snyk sbom" tool behavior as a bug.
